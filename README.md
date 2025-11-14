@@ -66,3 +66,5 @@ Animation and Adventure deliver strong global performance with moderate ROI.
 Western and Music genres underperform in both ROI and gross.
 
 Conclusion: Profitability does not always correlate with production scale—low-cost genres can outperform expensive ones. High-budget genres generate substantial revenue but carry higher financial risk.
+
+
