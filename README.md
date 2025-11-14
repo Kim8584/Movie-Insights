@@ -4,7 +4,7 @@ This project conducts a comprehensive analysis of the movie industry to uncover 
 
 Project Team:
 Akonon Bagat, 
-Alvin Mwendwa, 
+Alvin Mwenda, 
 Augustine Magani ,
 Isabella Siele,
 Nicole Otieno,
