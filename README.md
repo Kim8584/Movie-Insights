@@ -3,12 +3,12 @@ Project Overview
 This project conducts a comprehensive analysis of the movie industry to uncover actionable insights for stakeholders looking to enter the market. By leveraging data from multiple sources including Box Office Mojo, IMDB, and movie_gross, we explore trends in financial performance, audience reception, and market dynamics. The goal is to guide a new movie studio in deciding what types of films to create by identifying which genres and strategies are currently most successful.
 
 Project Team:
-Akonon Bagat 
-Alvin Mwendwa 
-Augustine Magani 
-Isabella Siele
-Nicole Otieno
-
+Akonon Bagat, 
+Alvin Mwendwa, 
+Augustine Magani ,
+Isabella Siele,
+Nicole Otieno,
+Stephen kimani,
 
 Problem Statement
 
